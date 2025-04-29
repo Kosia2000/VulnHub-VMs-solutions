@@ -1,4 +1,7 @@
 # The Planets: Earth
+<p align="left">
+  <img src="images/earth.png" width="500" height="250">
+</p>
 
 ## Table of Contents
 - [Url](#url)
