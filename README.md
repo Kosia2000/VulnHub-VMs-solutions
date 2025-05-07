@@ -11,3 +11,4 @@ Completed machines:
     - [Earth](https://github.com/Kosia2000/VulnHub-VMs-solutions/tree/master/Planets/Earth)
     - [Mercury](https://github.com/Kosia2000/VulnHub-VMs-solutions/tree/master/Planets/Mercury)
     - [Venus](https://github.com/Kosia2000/VulnHub-VMs-solutions/tree/master/Planets/Venus)
+  - [Gigachad: 1](https://github.com/Kosia2000/VulnHub-VMs-solutions/tree/master/Gigachad)
